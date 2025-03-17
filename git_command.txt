@@ -11,4 +11,4 @@
 7- git restore file_name -> if you delete your file and want to restore 
 8- git remote add origin repo_link -> to link your local repo to github repo
 
-git push origin repo_name -> to push code in remote git 
+git push origin repo_name -> to push code in remote git  
