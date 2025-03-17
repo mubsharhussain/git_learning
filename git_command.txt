@@ -10,5 +10,5 @@
 6- git commit -m "commit you want " -> is for add your file to track 
 7- git restore file_name -> if you delete your file and want to restore 
 8- git remote add origin repo_link -> to link your local repo to github repo
-
-git push origin repo_name -> to push code in remote git  
+9-git push origin repo_name -> to push code in remote git  
+10- git remote set-url origin https://accestocken@github.com/repo_link
