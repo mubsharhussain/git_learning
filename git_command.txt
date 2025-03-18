@@ -20,3 +20,4 @@
 16- git log -> is for checking log 
 17- git log --oneline -> 
 18- git fetch -> to use fetch all branch from remote to local
+19- gitignore file stop you to add sensitive data you can add file and folder in it like .env and other file you dont want to upload to remoter repo
