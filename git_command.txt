@@ -24,4 +24,4 @@
 20- git merge -> is use to merge branch
 21- merge conflicts happen when one branch is ahed of other branch and you want to merge them 
 22- git diff ->is use to see difference between 2 file before and after changes/commit 
-23- 
+23- git stash ->
