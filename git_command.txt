@@ -10,10 +10,13 @@
 6- git commit -m "commit you want " -> is for add your file to track 
 7- git restore file_name -> if you delete your file and want to restore 
 8- git remote add origin repo_link -> to link your local repo to github repo
-9-git push origin repo_name -> to push code in remote git  
+9- git push origin repo_name -> to push code in remote git  
 10- git remote set-url origin https://accestocken@github.com/repo_link -> to connect your local repo to remote repo
 11- git pull -> to get code from repo to local repo
 12- git push -> to send code from local to remote repo
-git branch -> to check on which branch you are
-git branch name_of_branch ->to mede new branch
-git switch branch_name -> to switch to new branch
+13- git branch -> to check on which branch you are
+14- git branch name_of_branch ->to mede new branch
+15- git switch branch_name -> to switch to new branch
+16- git log -> is for checking log 
+17- git log --oneline -> 
+18- git fetch -> to use fetch all branch from remote to local
