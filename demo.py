@@ -3,6 +3,6 @@ def my_function():
     b=6
 
     f=5
-    return d
+    return f
 
 my_function()
